@@ -230,6 +230,11 @@ p.windup-contributors  {
 }
 
 
+/** java-application.ftl */
+body.java-application .warnCount0 h4 { display: none; }
+body.java-application h4.warns { font-size: 11pt; font-weight: bold; }
+body.java-application ul.notifications { padding-left: 14px; }
+
 /** Bootstrap overrides **/
 
 
